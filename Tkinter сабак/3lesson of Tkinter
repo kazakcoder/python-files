@@ -6,7 +6,7 @@ def say_hello():
 
 root = tk.Tk()
 root.title("Button Мысалы")  # Терезе атауы
-root.geometry("300x200")
+roojt.geometry("300x200")
 
 # Батырманы құрамыз
 button = tk.Button(root, text="Мені бас!", command=say_hello)
