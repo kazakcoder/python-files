@@ -10,6 +10,6 @@ root.geometry("300x200")
 
 # Батырманы құрамыз
 button = tk.Button(root, text="Мені бас!", command=say_hello)
-button.pack()  # Терезеге қосамыз
+button.pack()  # Терезеге қосу
 
 root.mainloop()
