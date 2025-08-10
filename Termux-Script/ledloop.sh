@@ -1,0 +1,12 @@
+termux-torch on
+termux-torch off
+termux-torch on
+termux-torch off
+termux-torch on
+termux-torch off
+termux-torch on
+termux-torch off
+termux-torch on
+termux-torch off
+termux-torch on
+termux-torch off
